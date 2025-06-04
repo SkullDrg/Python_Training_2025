@@ -1,1 +1,1 @@
-set of Python exercises aimed at using logical reasoning and creativity to write as cleanly and intelligibly as possible
+set of Python exercises focused on using logical reasoning and creativity to write as cleanly and intelligibly as possible
